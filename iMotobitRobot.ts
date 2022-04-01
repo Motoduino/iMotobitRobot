@@ -1,7 +1,7 @@
 /**
  * Custom blocks
  */
-//% color=#00bc11 icon="\uf1eb" weight=120 block="iMotobitRobot"
+//% color=#00bc11 icon="\uf0ad" weight=120 block="iMotobitRobot"
 
 const MOTOR_ADDRESSS = 0x10
 
