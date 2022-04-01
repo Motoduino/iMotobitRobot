@@ -1,0 +1,15 @@
+{
+    "name": "iMotobitRobot",
+    "version": "0.0.1",
+    "description": "Support Motoduino i-Motobit-Robot",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "iMotobitRobot.ts",
+        "_locales/zh/iMotobitRobot-strings.json"
+    ],
+    "public": true
+}
