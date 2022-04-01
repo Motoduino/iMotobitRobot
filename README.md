@@ -1,6 +1,6 @@
-# MotoduinoWiFi
+# iMotobitRobot
 
-Motoduino i-Motobit Robot support.
+Support Motoduino i-Motobit Robot .
 
 ## License
 
@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-MotoduinoWiFi=github:Motoduino/iMotobitRobot
+iMotobitRobot=github:Motoduino/pxt-iMotobitRobot
 ```
